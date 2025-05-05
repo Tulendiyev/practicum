@@ -1,2 +1,2 @@
 # practicum
-prohojdenie kursa yandex practicum
+yandex practicum
